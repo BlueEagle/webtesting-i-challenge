@@ -4,7 +4,7 @@
   "description": "In this project, you will demonstrate proficiency by writing unit tests and production code to satisfy the _Minimum Viable Product_ described below.",
   "main": "index.js",
   "dependencies": {
-    "jest": "^26.4.0"
+    "jest": "^26.4.2"
   },
   "devDependencies": {},
   "scripts": {
